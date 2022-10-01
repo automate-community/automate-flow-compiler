@@ -1,4 +1,4 @@
-package automate.comunity;
+package automate.community;
 
 public class Main
 {
